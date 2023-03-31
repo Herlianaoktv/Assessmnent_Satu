@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Calculate Tip</string>
+    <string name="tip_amount">Jumlah Tip: %s</string>
+    <string name="biaya">Biaya dari layanan</string>
+    <string name="bagaimana_pelayanannya">Bagaimana pelayanannya?</string>
+    <string name="bulatkan_angka_tip">Bulatkan angka tip?</string>
+    <string name="jumlah_tip">Jumlah tip</string>
+    <string name="button_hitung">Hitung</string>
+    <string name="baik_7">Baik (7%)</string>
+    <string name="cukup_5">Cukup (5%)</string>
+    <string name="sangat_baik_10">Sangat Baik (10%)</string>
+    <color name="pink_200">#F48FB1</color>
+    <color name="pink_500">#E91E63</color>
+    <color name="pink_700">#C2185B</color>
+
+</resources>
